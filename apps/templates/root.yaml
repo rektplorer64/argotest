@@ -10,7 +10,7 @@ spec:
     namespace: default
   project: default
   source:
-    path: apps/templates
+    path: apps
     repoURL: https://github.com/rektplorer64/argotest.git
     targetRevision: HEAD
   syncPolicy:
